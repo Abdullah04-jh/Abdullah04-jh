@@ -1,7 +1,6 @@
 # Abdullah Jhatial's Portfolio
 
-Welcome to my GitHub portfolio! Here you'll find an overview of my skills, experiences, projects, and more. I'm Abdullah Jhatial, a Mechatronics Engineer with a passion for Embedded Systems, Chip Designing and Verification, Control and Robotics. I'm committed to continuous learning and growth, always eager to collaborate and contribute to innovative projects.
-
+Welcome to my GitHub portfolio! Here you'll find an overview of my skills, experiences, projects, and more. I'm Abdullah Jhatial, an ASIC Design Engineer with a strong focus on Digital Circuit Design, Chip Architecture, and Verification. I specialize in developing high-performance, power-efficient integrated circuits, with expertise in RTL design, synthesis, timing analysis, and post-silicon validation. Passionate about pushing the boundaries of semiconductor technology, I am committed to continuous learning and growth, always eager to collaborate and contribute to cutting-edge ASIC design projects.
 ## Profile
 
 Being an enthusiastic Mechatronic Engineer, I possess a strong urge to join organizations specializing in Embedded Systems, Chip designing and Verification, Control and Robotics. I am committed to showcasing my potential and am always eager to learn new skills. I have gained a solid foundation in mathematics and firmly believe in the principle of growing together with the team.
