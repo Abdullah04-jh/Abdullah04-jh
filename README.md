@@ -5,14 +5,14 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 
 As an enthusiastic Mechatronics Engineer with a strong focus on Chip Designing, Control Systems, and Robotics, I am committed to showcasing my potential and continually expanding my skill set. With a solid foundation in mathematics and engineering principles, I thrive in collaborative environments where growth is a collective effort. I believe in the power of teamwork and am always eager to learn, adapt, and contribute to innovative projects that push the boundaries of technology.
 ## Project
-- **32 bit Sign Unsign Vedic based Vector Multiplier RISC V compatable
+- **32 bit Sign Unsign Vedic based Vector Multiplier RISC V compatable**
   - Supoorted Instruction MUL,MULH,MULHU,MULSU
   - operational frequency 1.5-2.0 GHz
   - Timing Efiicient Micro Architecture  design
   - Complete rtl
   - Prefix carry calculation algorithm were used with carry select  Architecture for addition and Tow's complement
   - designed synthesis flow
-- ** Matrix and Vector multiplier Hardwere Design
+- **Matrix and Vector multiplier Hardwere Design**
   
 ## Experience
 
