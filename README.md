@@ -16,16 +16,15 @@ As an enthusiastic Mechatronics Engineer with a strong focus on Chip Designing, 
   
 ## Experience
 
-- **Intern at Jamshoro Power Company Limited**
-  - Dec 2021 – Jan 2022
-  - Learned about power generation processes and SCADA systems used in industrial processes.
-
 - **Research Associate at NCRA LAB**
   - Jan 2022 – Dec 2022
   - Worked on designing a system for Depth estimation for train trade by taking RGB image.
 
 - **Research Assistant at Sir Syed CASE Institute Islamabad**
   - Dec 2022 – Jan 2022
+- **Intern at Jamshoro Power Company Limited**
+  - Dec 2021 – Jan 2022
+  - Learned about power generation processes and SCADA systems used in industrial processes.
 
 ## Education
 
